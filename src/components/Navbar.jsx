@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import {Link} from 'react-scroll';
-import Contact from "./Contact";
+
 
 const links = [
   {

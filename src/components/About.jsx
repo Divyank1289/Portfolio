@@ -11,7 +11,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Welcome to my portfolio! I'm Divyank Trivedi, a passionate Full Stack
+          Welcome to my portfolio! I am Divyank Trivedi, a passionate Full Stack
           Web Developer eager to start my career in the tech industry. Fresh out
           of ABES Engineering College, where I honed my skills and fueled my
           passion for innovation, I am excited to apply my comprehensive
