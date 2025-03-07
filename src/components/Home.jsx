@@ -24,7 +24,7 @@ const Home = () => {
             solutions
           </p>
           <div>
-            <a href="https://drive.google.com/file/d/1ETyXWJyCuTfGFHPKOD67JcirhbEnNLvz/view?usp=drive_link" className="group text-white cursor-pointer w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 via-blue-500 to-blue-700 ">
+            <a href="https://drive.google.com/file/d/1N_b05dGiNUO40SCJs6nRNy6LJkeMjYMb/view?usp=sharing" className="group text-white cursor-pointer w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 via-blue-500 to-blue-700 ">
               Resume
               <span className="group-hover:rotate-90 duration-300 ">
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
